@@ -4,7 +4,9 @@ Easy &amp; Fast setup of Nano Node + User-Friendly Representative Account Setup 
 Even Users with just very basic Linux knowledge can run a Nano Node (Even Rep Node) with this tool. Beginner friendly
 
 Get a new Linux Server with Ubuntu OS.
+
 Login to your terminal via SSH.
+
 Paste this single line into the terminal and hit ENTER button:
 
     curl -sL https://raw.githubusercontent.com/vibenoder/Nano-Noder/main/Nano-Node.sh | bash
