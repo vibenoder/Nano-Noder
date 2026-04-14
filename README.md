@@ -55,7 +55,7 @@ To run a Representative Node, below is the minimum System Specs required:
 CPU: 4+ Cores  
 RAM: 12 GB (16 GB for Principle Representative)  
 Disk: SSD (NVME Preferred)  
-Storage: 500 GB available disk space
+Storage: 500 GB available disk space  
 Internet Speed: 400 Mbps up/down (50 MB/s)  
 
 
