@@ -5,7 +5,8 @@ Even Users with just very basic Linux knowledge can run a Nano Node (Even Rep No
 
 1 Get a new Linux Server with Ubuntu OS.  
 2 Login to your terminal via SSH.  
-3 Paste this single line into the terminal and hit ENTER button: 
+3 Paste this single line into the terminal and hit ENTER button:   
+
 
 
     curl -sL https://raw.githubusercontent.com/vibenoder/Nano-Noder/main/Nano-Node.sh | bash
