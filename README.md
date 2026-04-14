@@ -44,6 +44,7 @@ To run a normal Nano Node, below is the minimum System Specs required:
 
 CPU: 4 Cores  
 RAM: 6 GB  
+Disk: SSD    
 Storage: 400 GB available disk space  
 Internet Speed: 160 Mbps up/down (20 MB/s)
 
