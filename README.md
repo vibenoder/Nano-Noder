@@ -1,7 +1,7 @@
 # Nano-Noder
 Easy &amp; Fast setup of Nano Node + User-Friendly Representative Account Setup + Web Dashboard (nanonoder.com)
 
-Even Users with just very basic Linux knowledge can run a Nano Node with this tool. Beginner friendly + complete automation
+Even Users with just very basic Linux knowledge can run a Nano Node (Even Rep Node) with this tool. Beginner friendly
 
 Get a new Linux Server with Ubuntu OS.
 Login to your terminal via SSH.
