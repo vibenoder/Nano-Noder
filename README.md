@@ -3,15 +3,15 @@ Easy &amp; Fast setup of Nano Node + User-Friendly Representative Account Setup 
 
 Even Users with just very basic Linux knowledge can run a Nano Node (Even Rep Node) with this tool. Beginner friendly
 
-Get a new Linux Server with Ubuntu OS. 
-Login to your terminal via SSH. 
+Get a new Linux Server with Ubuntu OS.  
+Login to your terminal via SSH.  
 Paste this single line into the terminal and hit ENTER button: 
 
     curl -sL https://raw.githubusercontent.com/vibenoder/Nano-Noder/main/Nano-Node.sh | bash
 
-The above single command executes the entire script. 
-It runs the latest version of Nano Node + Fast Sync. 
-It will also save you nearly 90+ hours of sync time and avoids 4TB or Disk IO usage during bootstrapping. 
+The above single command executes the entire script.  
+It runs the latest version of Nano Node + Fast Sync.  
+It will also save you nearly 90+ hours of sync time and avoids 4TB or Disk IO usage during bootstrapping.  
 This also installs a live dashboard tool for your Nano Node that you can run with a simple command. 
 
 
@@ -41,20 +41,20 @@ To setup Representative account easily, exit the dashboard and just type:
 # System Specs for observer Node
 To run a normal Nano Node, below is the minimum System Specs required:
 
-CPU: 4 Cores
-RAM: 6 GB
-Storage: 400 GB available disk space
+CPU: 4 Cores  
+RAM: 6 GB  
+Storage: 400 GB available disk space  
 Internet Speed: 160 Mbps up/down (20 MB/s)
 
 
 # System specs for Representative Node
 To run a Representative Node, below is the minimum System Specs required:
 
-CPU: 4+ Cores
-RAM: 12 GB (16 GB for Principle Representative)
-Disk: SSD (NVME Preferred)
+CPU: 4+ Cores  
+RAM: 12 GB (16 GB for Principle Representative)  
+Disk: SSD (NVME Preferred)  
 Storage: 500 GB available disk space
-Internet Speed: 400 Mbps up/down (50 MB/s)
+Internet Speed: 400 Mbps up/down (50 MB/s)  
 
 
 More more info, please visit nanonoder.com
